@@ -12,3 +12,7 @@
 05 | cloud-productservice | 产品服务 
 06 | cloud-publicservice | 公共服务 
 07 | cloud-userservice | 用户服务 
+
+&emsp;&emsp;系统微服务架构如下：
+
+![系统微服务架构.png](./系统微服务架构.png)
