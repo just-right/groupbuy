@@ -1,0 +1,21 @@
+.ant-list-item{
+    padding-right: 24px;
+    padding-left: 24px;
+    border-bottom: 1px solid #e8e8e8;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    
+}
+
+.gutter-example .ant-row > div {
+    background: transparent;
+    border: 0;
+  }
+  .gutter-box {
+    /* background: #00A0E9; */
+    padding: 5px 0;
+  }
+
+  .row{
+    width: 200%;
+  }

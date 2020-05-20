@@ -1,0 +1,26 @@
+.logo {
+  width: 120px;
+  height: 60px;
+  background: transparent;
+  background-image: url('/image/logoko.png');
+  /* margin: 16px 24px 16px 0; */
+  margin-top: 2px;
+  margin-bottom: 2px;
+  float: left;
+}
+
+  .user {
+
+    margin: 16px 28px 16px 0;
+    float: right;
+    color: #EF561F;
+    font-weight: bolder;
+
+  }
+
+  .show{
+    color: red;
+    font-size: 1.5em;
+    float: left;
+    margin-left: 35%;
+  }

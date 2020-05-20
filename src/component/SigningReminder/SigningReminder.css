@@ -1,0 +1,11 @@
+.tip {
+    color: red;
+}
+
+.value {
+    font-weight: bold;
+}
+
+.status{
+    color: red;
+}
