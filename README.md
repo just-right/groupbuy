@@ -3,15 +3,18 @@
 
 &emsp;&emsp;分支说明如下：
 
-序号 |分支 |  说明
+序号 |分支 |  说明 
 -|-|-
-01 | cloud-eureka | 注册中心 
-02 | cloud-config |  配置中心
-03 | cloud-zuul |  Zuul网关
-04 | cloud-orderservice | 订单服务 
-05 | cloud-productservice | 产品服务 
-06 | cloud-publicservice | 公共服务 
-07 | cloud-userservice | 用户服务 
+01 | cloud-eureka | 注册中心-后端 
+02 | cloud-config |  配置中心-后端 
+03 | cloud-zuul |  Zuul网关-后端 
+04 | cloud-orderservice | 订单服务-后端  
+05 | cloud-productservice | 产品服务-后端  
+06 | cloud-publicservice | 公共服务-后端  
+07 | cloud-userservice | 用户服务-后端  
+08 | front-admin | 管理员管理-前端 
+09 | front-merchant | 商家管理-前端 
+10 | front-user | 用户购物-前端 
 
 &emsp;&emsp;系统微服务架构如下：
 
