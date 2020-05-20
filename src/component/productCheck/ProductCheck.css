@@ -1,0 +1,11 @@
+.tip {
+    color: red;
+}
+
+.value {
+    font-weight: bold;
+}
+.img{
+    width: 15em;
+    height: 15em;
+}
