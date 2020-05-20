@@ -1,0 +1,59 @@
+.productimg{
+    width: 320px;
+    height: 250px;
+  }
+
+  .info{
+    text-align: center;
+    margin-top: 2%;
+  }
+
+  .btn{
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
+  }
+
+  .gutter-box {
+    padding: 5px 0;
+    /* margin-top: 5%; */
+    background: transparent;
+    border: 0;
+  }
+
+  .detailsider{
+    background-color: white;
+    width: 100%;
+    
+}
+
+.detailcontent{
+    margin-left: 12%;
+    width: 100%;
+    margin-top: -0.6%;
+    font-size: 2em;
+}
+
+.welcome{
+    text-align: center;
+    font-size: 2em;
+    margin-bottom: 0.1%;
+    color: coral
+}
+
+.layout{
+  margin-top: 1%;
+  margin-left: 30%;
+  text-align: left;
+}
+
+.ant-layout-sider {
+  background-color: transparent;
+
+}
+
+
+
+
+
+

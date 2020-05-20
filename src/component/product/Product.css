@@ -1,0 +1,18 @@
+.sider{
+    background-color: white;
+    width: 100%;
+    margin-top: 1%;
+    margin-right: 1%;
+}
+
+.content{
+    margin-top: 1%;
+    width: 100%;
+}
+
+.welcome{
+    text-align: center;
+    font-size: 2em;
+    margin-bottom: 0.1%;
+    color: coral
+}
